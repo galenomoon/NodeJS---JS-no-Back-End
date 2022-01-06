@@ -1,0 +1,19 @@
+{
+  "name": "restful",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Galeno",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "express-validator": "^6.14.0",
+    "ndb": "^1.1.5",
+    "nedb": "^1.8.0"
+  }
+}
